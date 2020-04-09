@@ -1,0 +1,9 @@
+{
+    "name": "",
+    "description": "",
+    "autoload": {
+        "psr-4": {
+            "PSRFour\\": "src/"
+        }
+    }
+}
